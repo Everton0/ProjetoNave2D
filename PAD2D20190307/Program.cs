@@ -10,6 +10,7 @@ namespace PAD2D20190307
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
